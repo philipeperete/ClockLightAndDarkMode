@@ -1,12 +1,12 @@
 # <h1 align='center'>Relógio Dark and Light Mode 🕒</h1> 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/philipeperete/NextLevelWeek2?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/philipeperete/ClockLightAndDarkMode?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/philipeperete/NextLevelWeek2">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/philipeperete/ClockLightAndDarkMode">
 
-  <a href="https://github.com/philipeperete/NextLevelWeek2/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/philipeperete/NextLevelWeek2">
+  <a href="https://github.com/philipeperete/ClockLightAndDarkMode/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/philipeperete/ClockLightAndDarkMode">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -14,20 +14,21 @@
 
 _________
 
+## 🎨 Layout
+
+<p align="center">
+    <img alt="Relógio" title="Relógio" src="clock.gif" width="400px">
+</p>
+_________
+
 ## 💻 Sobre o projeto
 
 🕒 Relógio Dark and Light Mode.
 
 Criação de um relógio com Dark e Light Mode.
-Projeto desenvolvido para conhecer o funcionamento de um relógio em JavaScript e do modo Dark e Light.
 
-_________
+Projeto desenvolvido para conhecimento de um relógio em JavaScript e o Dark e Light Mode.
 
-## 🎨 Layout
-
-<p align="center">
-    <img alt="Relógio" title="Relógio" src="clock.gif" width="200px">
-</p>
 _________
 
 ## 🛠 Tecnologias
@@ -67,8 +68,6 @@ O projeto se encontra sob licença MIT.
 Para mais detalhes, acesse [license](LICENSE).
 
 _________
-
-Agradecimentos [Rocketseat] 🚀.
 
 * Twitter: [Philipe Perete](https://twitter.com/PhilipePerete).
 * Linkedin: [Philipe Perete](https://www.linkedin.com/in/philipe-perete-b76622104/).
